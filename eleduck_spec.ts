@@ -28,5 +28,4 @@ describe('homework',function(){
         cy.get('body').should('contain', '自动化测试');
 
     });
-
 })
